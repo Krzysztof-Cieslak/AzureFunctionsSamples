@@ -2,3 +2,4 @@ source https://www.nuget.org/api/v2
 framework: net45
 
 nuget Newtonsoft.Json
+nuget Tesseract
